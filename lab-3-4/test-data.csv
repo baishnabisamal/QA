@@ -1,0 +1,4 @@
+hostname,os,deviceType,expectedStatus
+LAPTOP-QA-001,windows,laptop,201
+,windows,laptop,201
+LAPTOP-QA-003,invalid-os,laptop,201
